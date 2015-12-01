@@ -4,7 +4,7 @@ jQuery(function($) {
 
 	// Helper function for vertically aligning DOM elements
 	// http://www.seodenver.com/simple-vertical-align-plugin-for-jquery/
-	$.fn.vAlign = function() {
+	jQuery.fn.vAlign = function() {
 		return this.each(function(i){
 		var ah = jQuery(this).height();
 		var ph = jQuery(this).parent().height();
@@ -13,7 +13,7 @@ jQuery(function($) {
 		});
 	};
 
-	$.fn.stretchFormtasticInputWidthToParent = function() {
+	jQuery.fn.stretchFormtasticInputWidthToParent = function() {
 		return this.each(function(i){
 		var p_width = jQuery(this).closest("form").innerWidth();
 		var p_padding = parseInt(jQuery(this).closest("form").css('padding-left') ,10) + parseInt(jQuery(this).closest("form").css('padding-right'), 10);
@@ -2503,7 +2503,7 @@ helpers = this.merge(helpers, Handlebars.helpers); data = data || {};
           e.preventDefault();
         }
         textArea = jQuery('textarea', jQuery(this.el.parentNode.parentNode.parentNode));
-        if ($.trim(textArea.val()) === '') {
+        if (jQuery.trim(textArea.val()) === '') {
           return textArea.val(this.model.sampleJSON);
         }
       }

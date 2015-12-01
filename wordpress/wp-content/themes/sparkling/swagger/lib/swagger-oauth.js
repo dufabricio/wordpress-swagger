@@ -93,7 +93,7 @@ function handleLogin() {
     var authSchemes = window.swaggerUi.api.authSchemes;
     var host = window.location;
     var pathname = location.pathname.substring(0, location.pathname.lastIndexOf("/"));
-    var redirectUrl = host.protocol + '//' + host.host + pathname + '/o2c.html';
+    var redirectUrl = host.protocol + '//' + host.host + '/docs/o2c.html';
     var url = null;
 
     for (var key in authSchemes) {
@@ -195,11 +195,11 @@ function onOAuthComplete(token) {
       if(b){
         // if all roles are satisfied
         var o = null;
-        $.each(jQuery('.auth #api_information_panel'), function(k, v) {
+        jQuery.each(jQuery('.auth #api_information_panel'), function(k, v) {
           var children = v;
           if(children && children.childNodes) {
             var requiredScopes = [];
-            $.each((children.childNodes), function (k1, v1){
+            jQuery.each((children.childNodes), function (k1, v1){
               var inner = v1.innerHTML;
               if(inner)
                 requiredScopes.push(inner);
