@@ -49,6 +49,9 @@
 
 <!-- enabling this will enable oauth2 implicit scope support -->
 <script src='<?php echo get_template_directory_uri()."/swagger/lib/swagger-oauth.js" ?>' type='text/javascript'></script>
+
+<link href='<?php echo get_template_directory_uri()."/swagger-fixes.css" ?>' media='screen' rel='stylesheet' type='text/css'/>
+
 <?php endif; ?>
 <?php endwhile; // end of the loop. ?>
 
