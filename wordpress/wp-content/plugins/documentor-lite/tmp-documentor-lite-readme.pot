@@ -1,0 +1,358 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Documentor - Create Product Documentation"
+msgstr ""
+
+#. Short description.
+msgid "Great Products need Great Documentation!! Easily create Online Product Guide or Help Document."
+msgstr ""
+
+#. Screenshot description.
+msgid "Guide or Document on Front-end."
+msgstr ""
+
+#. Screenshot description.
+msgid "Guide on mobile."
+msgstr ""
+
+#. Screenshot description.
+msgid "Edit Document Panel."
+msgstr ""
+
+#. Screenshot description.
+msgid "Add Sections Form."
+msgstr ""
+
+#. Found in description header.
+msgid "Checkout this video tutorial"
+msgstr ""
+
+#. Found in description header.
+msgid "Features"
+msgstr ""
+
+#. Found in description header.
+msgid "Premium Version"
+msgstr ""
+
+#. Found in description list item.
+msgid "View screenshots. An image is worth a 1000 words!"
+msgstr ""
+
+#. Found in description list item.
+msgid "Beautiful Responsive online Documentation which animates nicely while scrolling."
+msgstr ""
+
+#. Found in description list item.
+msgid "Add N number of Sections"
+msgstr ""
+
+#. Found in description list item.
+msgid "Sections can be custom sections or posts or pages."
+msgstr ""
+
+#. Found in description list item.
+msgid "Custom Links can also be added in Table of Contents"
+msgstr ""
+
+#. Found in description list item.
+msgid "Reorder and Delete Sections easily"
+msgstr ""
+
+#. Found in description list item.
+msgid "Embed the guide using shortcode or template tag"
+msgstr ""
+
+#. Found in description list item.
+msgid "Settings panel to change colors and fonts"
+msgstr ""
+
+#. Found in description list item.
+msgid "Simple and easy to use"
+msgstr ""
+
+#. Found in description list item.
+msgid "WPML Compatible"
+msgstr ""
+
+#. Found in description list item.
+msgid "Non intrusive styles, looks perfect on all the devices"
+msgstr ""
+
+#. Found in description list item.
+msgid "Multiple Skins"
+msgstr ""
+
+#. Found in description list item.
+msgid "User Feedback form submission"
+msgstr ""
+
+#. Found in description list item.
+msgid "Live Preview on Dashboard"
+msgstr ""
+
+#. Found in description list item.
+msgid "Save Document as PDF"
+msgstr ""
+
+#. Found in description list item.
+msgid "Print and Email Document"
+msgstr ""
+
+#. Found in description list item.
+msgid "Unlimited Documentations"
+msgstr ""
+
+#. Found in description list item.
+msgid "Priority Support"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Easily create Online Product Guide or Help Document on WordPress site. Add sections, change colors and embed. Sections can be custom posts, regular posts or pages."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Documentor was built with the idea to make plugin, theme or any other product developer's life easier by cutting the documentation time short. Using Documentor, one can create and publish a profession looking documentation in just an hour with an elegant design and implementation."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "[youtube https://www.youtube.com/watch?v=vhMGH8UPdc4]"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"https://documentor.in/\" title=\"Documentor Premium Features\">Documentor Premium</a> offers awesome features such as"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"https://documentor.in/\" title=\"Documentor Premium Features\">Visit our Premium page</a>"
+msgstr ""
+
+#. Found in installation header.
+msgid "1. The super easy way"
+msgstr ""
+
+#. Found in installation header.
+msgid "2. The easy way"
+msgstr ""
+
+#. Found in installation header.
+msgid "3. The old way (FTP)"
+msgstr ""
+
+#. Found in installation list item.
+msgid "In your Admin, go to menu Plugins &gt; Add"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Search for Documentor Lite"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Click to install"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin"
+msgstr ""
+
+#. Found in installation list item.
+msgid "A new menu <code>Documentor</code> will appear in your Admin"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Download the plugin (.zip file) on the right column of this page"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Select the tab \"Upload\""
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload the .zip file you just downloaded"
+msgstr ""
+
+#. Found in installation list item.
+msgid "A new menu will appear in your Admin"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload <code>documentor-lite</code> folder to the <code>/wp-content/plugins/</code> directory"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "There's 3 ways to install this plugin:"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New : Guide will be a CPT(Custom Post Type) "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Added 4 new indexing format for Guide menu like Roman and Alphabets"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New : Added an option for minimum User Level to create and manage guides"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Compatibility with Crayon Syntax Highlighter"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed : Issue with broad skin. only parent index are appearing now."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: If section title is empty ,Section order handle is appearing with proper height."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed : If there are more than 20 sections on edit panel, drag and drop can be done with scroll easily."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Active menu focus issue while scrolling"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: The anchor link contained asteric for NGINX WP installations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Errors while adding Posts/Pages as section on older versions of Mozilla Firefox"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Introduced new skin named 'Broad'"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Search in Document"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Toggle child menus in navigation of Document"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Added social sharing for document and different settings of social share"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Added an option to display title of document and format it as per the requirement."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Added Text Box to Handle Fixed Menu Pages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Scroll content and menu issue on iOS devices"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Show 'Last updated on Date' under each section of documentation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - RTL Support  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Option to specify menu Position (left or right)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Option for Scrollbar settings (size, color, opacity)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Back to top button enable/disable. It's position is changed ( fixed at bottom right corner of window )"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Custom styles on Global Settings"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Added slug for each section which is used as section link."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Responsiveness"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Stylesheet is included before document"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - On certain servers PHP error and white screen due to certain file names."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "French"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "German"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Spanish"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dutch (Netherlands) "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Russian"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Italian"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Modified uninstall file code so that tables will not delete on deletion of Documentor Lite plugin if Documentor Pro is active"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added scrolling enable/disable option in basic settings"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added fixed menu enable/disable option in basic settings"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Altered documentor table for documentor title to take title from different languages"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed capability of Guide Manager to \"upload files\""
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed icon of Documentor in admin menu at dashboard"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Manage link at plugins page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Hello World. :-)"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Please check the plugin page for FAQs and how-tos"
+msgstr ""
