@@ -27,6 +27,28 @@
 
 <?php wp_head(); ?>
 
+<!-- SWAGGER RESOURCES -->
+<link href='//fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'/>
+<link href='<?php echo get_template_directory_uri()."/swagger/css/reset.css" ?>' media='screen' rel='stylesheet' type='text/css'/>
+<link href='<?php echo get_template_directory_uri()."/swagger/css/screen.css" ?>' media='screen' rel='stylesheet' type='text/css'/>
+<link href='<?php echo get_template_directory_uri()."/swagger/css/reset.css" ?>' media='print' rel='stylesheet' type='text/css'/>
+<link href='<?php echo get_template_directory_uri()."/swagger/css/screen.css" ?>' media='print' rel='stylesheet' type='text/css'/>
+<script src='<?php echo get_template_directory_uri()."/swagger/lib/shred.bundle.js" ?>'></script>
+<script src='<?php echo get_template_directory_uri()."/swagger/lib/jquery.slideto.min.js" ?>' type='text/javascript'></script>
+<script src='<?php echo get_template_directory_uri()."/swagger/lib/jquery.wiggle.min.js" ?>' type='text/javascript'></script>
+<script src='<?php echo get_template_directory_uri()."/swagger/lib/jquery.ba-bbq.min.js" ?>' type='text/javascript'></script>
+<script src='<?php echo get_template_directory_uri()."/swagger/lib/handlebars-1.0.0.js" ?>' type='text/javascript'></script>
+<script src='<?php echo get_template_directory_uri()."/swagger/lib/underscore-min.js" ?>' type='text/javascript'></script>
+<script src='<?php echo get_template_directory_uri()."/swagger/lib/backbone-min.js" ?>' type='text/javascript'></script>
+<script src='<?php echo get_template_directory_uri()."/swagger/lib/swagger.js" ?>' type='text/javascript'></script>
+<script src='<?php echo get_template_directory_uri()."/swagger/lib/swagger-client.js" ?>' type='text/javascript'></script>
+<script src='<?php echo get_template_directory_uri()."/swagger/swagger-ui.js" ?>' type='text/javascript'></script>
+<script src='<?php echo get_template_directory_uri()."/swagger/lib/highlight.7.3.pack.js" ?>' type='text/javascript'></script>
+
+<!-- enabling this will enable oauth2 implicit scope support -->
+<script src='<?php echo get_template_directory_uri()."/swagger/lib/swagger-oauth.js" ?>' type='text/javascript'></script>
+
+
 </head>
 
 <body <?php body_class(); ?>>

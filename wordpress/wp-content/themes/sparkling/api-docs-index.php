@@ -14,7 +14,7 @@ get_header(); ?>
 
 			<?php
 			$args = array(
-				'name'        => 'api-docs-intro',
+				'name'        => 'api-docs',
 				'post_type'   => 'page',
 			);
 			query_posts($args);
